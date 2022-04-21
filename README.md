@@ -38,13 +38,13 @@
   <br>
   
   
-  ## ⚡️ Let's talk more:
+  <!-- ## ⚡️ Let's talk more:
 
 <p align="left"> 
     <a href="https://www.linkedin.com/in/tergeltengis-bayarsaikhan-7a2a24169/" target="_blank"> <img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="express" width="37" height="37"/> </a>
     <a href="tergeltengis77@gmail.com" target="_blank"> <img src="https://image.flaticon.com/icons/png/512/732/732200.png" alt="express" width="37" height="42"/ > </a>
    <a href="https://twitter.com/tergeltengis" target="_blank"> <img src="https://image.flaticon.com/icons/png/512/733/733579.png" alt="express" width="37" height="37"/> </a>
-</p>
+</p> -->
   
   
   
